@@ -1,4 +1,4 @@
-# DeadStealer-V1
+# SmithStealer-V1
 # Payload Settings
 Ping | Mention @everyone
 
